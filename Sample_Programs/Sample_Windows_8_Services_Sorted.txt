@@ -1,0 +1,146 @@
+ASP.NET State Service [stopped]
+ActiveX Installer (AxInstSV) [stopped]
+Application Experience [stopped]
+Application Host Helper Service
+Application Identity [stopped]
+Application Layer Gateway Service [stopped]
+Background Intelligent Transfer Service
+Base Filtering Engine
+BitLocker Drive Encryption Service [stopped]
+Block Level Backup Engine Service [stopped]
+Bluetooth Support Service [stopped]
+CNG Key Isolation
+COM+ Event System
+COM+ System Application
+Certificate Propagation [stopped]
+Computer Browser
+Credential Manager
+Cryptographic Services
+DHCP Client
+DNS Client
+Device Association Service
+Device Install Service [stopped]
+Device Setup Manager [stopped]
+Diagnostic Policty Service
+Diagnostic Service Host
+Diagnostic System Host [stopped]
+Distributed Link Tracking Client
+Distributed Transaction Coordinator [stopped]
+Encrypting File System (EFS) [stopped]
+Extensible Authentication Protocol [stopped]
+Family Safety [stopped]
+Fax [stopped]
+File History Service [stopped]
+Function Discovery Provider Host
+Function Discovery Resource Publication
+Group Policy Client
+Health Key and Certificate Management [stopped]
+HomeGroup Listener
+HomeGroup Provider
+Human Interface Device Access
+Hyper-V Data Exchange Service [stopped]
+Hyper-V Guest Shutdown Service [stopped]
+Hyper-V Heartbeat Service [stopped]
+Hyper-V Remote Desktop Virtualization Service [stopped]
+Hyper-V Time Synchronization Service [stopped]
+Hyper-V Volume Shadow Copy Requestor [stopped]
+IKE and AuthIP IPsec Keying Modules
+IP Helper
+IPsec Policy Agent
+Interactive Services Detection [stopped]
+KtmRm for Distributed Transaction Coordinator [stopped]
+Link-Layer Topology Discovery Mapper [stopped]
+MIcrosoft iSCSI Initiator Service [stopped]
+Microsoft Account Sign-in Assistant [stopped]
+Microsoft Software Shadow Copy Provider [stopped]
+Multimedia Class Scheduler [stopped]
+Netlogon [stopped]
+Network Access Protection Agent [stopped]
+Network Connected Devices Auto-Setup
+Network Connections [stopped]
+Network Connectivity Assistant [stopped]
+Network List Service
+Network Location Awareness
+Network Store Interface Service
+Office Source Engine [stopped]
+Optimize drives [stopped]
+PNRP Machine Name Publication Service [stopped]
+Peer Name Resolution Protocol
+Peer Network Identity Manager
+Peer Networking Grouping
+Performance Counter DLL Host [stopped]
+Performance Logs & Alerts [stopped]
+Plug and Play
+Portable Device Enumerator Service
+Power
+Print Spooler
+Printer Extensions and Notifications [stopped]
+Problem Reports and Solutions Control Panel Support [stopped]
+Program Compatibility Assistant Service
+Quality Windows Audio Video Experience [stopped]
+RPC Endpoint Mapper
+Remote Access Auto Connection Manager [stopped]
+Remote Desktop Configuration [stopped]
+Remote Desktop Services UserMode Port Redirector [stopped]
+Remote Desktop Services [stopped]
+Remote Procedure Call (RPC) Locator [stopped]
+SNMP Trap [stopped]
+SSDP Discovery
+Secondary Login [stopped]
+Secure Socket Tunneling Protocol Service [stopped]
+Security Accounts Manager
+Security Center
+Sensor Monitoring Service [stopped]
+Server
+Shell Hardware Detection
+Smart Card Removal Policy [stopped]
+Spot Verifier [stopped]
+Still Image Acquisition Events [stopped]
+Storage Service [stopped]
+Superfetch
+System Event Notification Service
+Systems Event Broker
+TCP/IP NetBIOS Helper
+Task Scheduler
+Telephony [stopped]
+Themes
+Thread Ordering Server [stopped]
+Time Broker
+Touch Keyboard and Handwriting Panel Service
+UPnP Device Host
+Virtual Disk [stopped]
+Volume Shadow Copy [stopped]
+WLAN AutoConfig
+WMI Performance Adapter [stopped]
+WWAN AutoConfig [stopped]
+WebClient [stopped]
+WinHTTP Web Proxy Auto-Discovery Service
+Windows All-User Install Agent [stopped]
+Windows Audio
+Windows Audio Endpoint Builder
+Windows Backup [stopped]
+Windows Biometric Service [stopped]
+Windows Color System [stopped]
+Windows Connect Now - Config Registrar [stopped]
+Windows Connection Manager
+Windows Defender Service [stopped]
+Windows Driver Foundation - User-mode Driver Framework
+Windows Error Reporting Service [stopped]
+Windows Event Collector [stopped]
+Windows Event Log
+Windows Firewall
+Windows Font Cache Service
+Windows Image Acquisition (WIA)
+Windows Installer [stopped]
+Windows Management Instrumentation
+Windows Media Player Network Sharing Service
+Windows Module Installer [stopped]
+Windows Presentation Foundation Font Cache [stopped]
+Windows Process Activation Service [stopped]
+Windows Remote Management (WS-Management) [stopped]
+Windows Search
+Windows Store Service (WSService) [stopped]
+Windows Time [stopped]
+Windows Update [stopped]
+Wired AutoConfig [stopped]
+Workstation
