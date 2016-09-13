@@ -117,7 +117,7 @@ void load_transfer_data_from_transfer_file(vector<train_stop_data> & train_stops
 void enter_stop_data(vector<train_stop_data> & train_stops)
 {
 	ifstream infile_stops;
-	infile_stops.open("trainData.txt", ifstream::in);
+	infile_stops.open("MTA_train_stop_data.txt", ifstream::in);
 
 	string s;
 	char delim_comma[] = ",";
