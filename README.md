@@ -2,7 +2,7 @@
 Coded in C++
 
 Some of these files are from material from the courses CS2134 Data Structures and CS1124 C++ Object-Orientated Programming.
-I assume all knowledge of data structures in represented in these files.
+I assume all knowledge of data structures represented in these files.
 
 #MIT License
 
